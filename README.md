@@ -7,7 +7,10 @@
 
 ## **Содержание**
 1. [Функция поиска минимального числа без встроенных в python](/scr/find_min_elem_from_list.py)
-2. 
+2. [Нахождение минимального, предминимального, пред-предминимального элемента в списке](/scr/before-min_elem_from_list.py)
+3. [Проверка числа на простоту](/scr/prost_number.py)
+4. [Бинарный алгоритм Евклида](/scr/bynary_alg_Evklida.py)
+5. []()
 
 ![end](https://stormpath.com/wp-content/uploads/2016/04/python-logo.png)
 
