@@ -10,9 +10,10 @@
 2. [Нахождение минимального, предминимального, пред-предминимального элемента в списке](/scr/before-min_elem_from_list.py)
 3. [Проверка числа на простоту](/scr/prost_number.py)
 4. [Бинарный алгоритм Евклида](/scr/bynary_alg_Evklida.py)
-5. []()
+5. [Словарь с ключом=элемент, значение=количество этого элемента](/scr/find_search_in-dictionary_elem.py)
+6. []()
 
 ![end](https://stormpath.com/wp-content/uploads/2016/04/python-logo.png)
 
 
-###### 14.03.2023
+###### 16.03.2023.
