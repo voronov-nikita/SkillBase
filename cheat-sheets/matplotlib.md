@@ -42,7 +42,25 @@ plt.show()
 
 2. <font color="yellow"> bar() </font> - принимает два аргумента: массив значений для оси X, массив значений для оси Y. **Строит <u>столбчатую диаграмму </u>** по полученным данным.
 
-3. <font color="yellow"> pie() </font> - строит круговую диаграмму.
+3. <font color="yellow"> pie() </font> - строит **круговую диаграмму**.
+
+4. <font color="yellow"> table() </font> - Строит табилы. На входе имеет:
+    - **cellText** список текстов в ячейках
+    - **cellColours** список цвета фона ячеек
+    - **cellLoc** выравнивание текста
+        ```python
+        plt.table(cellLoc="left")
+        plt.table(cellLoc="center") 
+        plt.table(cellLoc="right") 
+        ```
+    - **bbox** список с элементом - ограничивающая рамка, в которую будет помещена таблица. Список содержит: _[xmin, ymin, width, height]_.
+    - **edges** вид краев ячеек.
+5. <font color="yellow"> subplots() </font> - помогает изобразить фигуру в виде графиков _(подграфики)_. На вход получает:
+    - **ncols/nrows** столбцов/строк в сетке подграфика. 
+    - **sharex/sharey** ипользуются для управления общими осями в координатной плоскости.
+    - **squeeze** - по умолчанию False, но если True, то вернет сокращенный массив координат
+    - **subplot_kw** - требуется передать словарь с ключом, названием подзаголовка.
+
 
 ## Графики (примеры)
 ```python
@@ -86,10 +104,18 @@ plt.show()
 
 ![image2](/cheat-sheets/img/2.png)
 
+## Диаграммы (примеры)
+```python
+import matplotlib.plot as plt
+
+
+
+```
+
 ## Useful Links:
 1. [python.org](https://python.org)
 2. [matplotlib.org](https://matplotlib.org)
 3. [pypi.org](https://pypi.org)
 
-###### 01.04.2023
+###### 02.04.2023
 
