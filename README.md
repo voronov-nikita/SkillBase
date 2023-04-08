@@ -14,7 +14,8 @@
 5. [Словарь с ключом=элемент, значение=количество этого элемента](/scr/find_search_in-dictionary_elem.py)
 6. [Создание простой реляционной базы данных SQLite3](/scr/simple-data_base-SQL.py)
 7. [Шпаргалка по использованию matplotlib](/cheat-sheets/matplotlib.md)
-8. []()
+8. [Шпаргалка по использованию Flask](/cheat-sheets/Flask.md)
+9. [Создание простого Flask интерфейса (логика)](/scr/pattern_web-app.py)
 
 ![end](https://stormpath.com/wp-content/uploads/2016/04/python-logo.png)
 
