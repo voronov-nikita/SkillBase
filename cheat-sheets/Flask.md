@@ -33,6 +33,42 @@ if __name__=="__main__":
 
 ## **Основные методы и конструкции**
 
+1. __Декоратор ```@app.route()```__ - используется для выполнения действеия программы под определенным индексом страницы. Пример:
+    ```python
+    from flask import Flask
+
+    app = Flask(__name__)
+
+    @app.route("/")
+    def index():
+        return "Hello, Flask"
+
+    if __name__=="__main__":
+        app.run()
+    ```
+    В этом примере при переходе на главную старницу (главная страница -> "domen.ru/") на экране будет отображенанадпись "Hello, Flask". Таким образом, меняя имя внутри декоратора в соответсвии со страницами, будет оторажаться разная информация.
+
+2. Метод ```jsonify()``` - преобразует полученный словарь в [*json*](https://ru.wikipedia.org/wiki/JSON), который позже можно будет счиатть с помощью того же python requests.
+    ```python
+    from flask import Flask, jsonify
+
+    app = Flask(__name__)
+
+    @app.route('/json-example')
+    def index():
+        data = {
+            "one" : 1,
+            "two" : 2,
+            "Hello" : "world"
+        }
+        return jsonify(data)
+
+    if __name__=="__main__":
+        app.run()
+    ```
+    В этом примере при переходе на страницу "/json-example" python словарь _data_ преобразуется в json формат и отобразиться на странице.
+3.  
+
 ## **Useful Links**
 1. [python.org](https://python.org)
 2. [flask.com](https://flask.palletsprojects.com/en/2.2.x/)
@@ -40,4 +76,4 @@ if __name__=="__main__":
 4. [htmlbook.ru/css](http://htmlbook.ru/css)
 
 
-###### 08.04.2023
+###### 09.04.2023
