@@ -34,9 +34,8 @@ print(ls > 20)
 
     > То же самое можно провернуть и с обратными функциями по типу арктангенса, арккосинуса и другие. Принцип действия тот же, что и указан выше. 
 
-6. numpy.random() -
-7. list_numpy.sum() - вернет сумму всех значений массива.
-8. numpy.arange(n) - 
+6. list_numpy.sum() - вернет сумму всех значений массива.
+7. numpy.arange(n) - работает так же, как и функция range в python, однако способен рабоатать с массивами numpy.
 
 ## **Useful Links**
 1. [python.org](https://python.org)
@@ -47,4 +46,4 @@ print(ls > 20)
 6. [pythonworld.ru (часть 3)](https://pythonworld.ru/numpy/3.html)
 7. [pythonworld.ru (часть 4)](https://pythonworld.ru/numpy/4.html)
 
-###### 09.04.2023
+###### 15.04.2023
