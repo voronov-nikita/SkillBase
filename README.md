@@ -9,18 +9,16 @@
 
 ## **Содержание**
 ### **PYTHON**:
-1. [Функция поиска минимального числа без встроенных в python](/scr/find_min_elem_from_list.py)
-2. [Нахождение минимального, предминимального, пред-предминимального элемента в списке](/scr/before-min_elem_from_list.py)
-3. [Проверка числа на простоту](/scr/prost_number.py)
-4. [Бинарный алгоритм Евклида](/scr/bynary_alg_Evklida.py)
-5. [Словарь с ключом=элемент, значение=количество этого элемента](/scr/find_search_in-dictionary_elem.py)
-6. [Создание простой реляционной базы данных SQLite3](/scr/simple-data_base-SQL.py)
-7. [Шпаргалка по использованию matplotlib](/cheat-sheets/matplotlib.md)
-8. [Шпаргалка по использованию Flask](/cheat-sheets/Flask.md)
-9. [Создание простого Flask интерфейса (логика)](/scr/pattern_web-app.py)
-10. [Шпаргалка по использованию numpy](/cheat-sheets/numpy.md)
 
-![end](https://stormpath.com/wp-content/uploads/2016/04/python-logo.png)
+   
+1. [Работа с реляционной базы данных SQLite3](/scr/simple-data_base-SQL.py)
+   
+2. [Шпаргалка по использованию matplotlib (Markdown)](/cheat-sheets/matplotlib.md)
+   
+3. [Шпаргалка по использованию Flask (Markdown)](/cheat-sheets/Flask.md)
+    
+5.  [Шпаргалка по использованию numpy (Markdown)](/cheat-sheets/numpy.md)
 
 
-###### 09.04.2023.
+
+###### 08.08.2023 - last commit in README.md
