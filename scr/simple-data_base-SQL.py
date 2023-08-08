@@ -1,6 +1,6 @@
 import sqlite3 as sql
 
-def create_database(name_db:str):
+def create_database(name_db:str) -> None:
     # подключиться к базы данных
     # если ее нет, то создать новую
     db = sql.connect(name_db)
@@ -42,7 +42,7 @@ def get_data_from_database(name_db:str, data) -> tuple:
 # для опознания некоторой строки используеться {data}, как признак отличия (id пользователя к примеру)
 # данные, которые нужно добавить -> {add_data}
 # Важно помнить о типе данных, которые устанавливали при создании БД
-def add_data_in_database(name_db:str, data, add_data):
+def add_data_in_database(name_db:str, data, add_data) -> None:
     
     db = sql.connect(name_db)
     cursor = db.cursor()
@@ -52,4 +52,19 @@ def add_data_in_database(name_db:str, data, add_data):
     )
     
     # сохраняем
+    db.commit()
+    
+    
+# Обновление данных в БД {name_bd}
+# для опознания некоторой строки используеться {data}, как признак отличия (id пользователя к примеру)
+# данные, которые нужно добавить -> {new_data}
+def update_data(name_db:str, data, new_data):
+    db = sql.connect(name_db)
+    cursor = db.cursor()
+    
+    cursor.execute(
+        f"""UPDATE {name_db} SET name='{new_data}' WHERE id={data}"""
+    )
+    
+    # сохранить
     db.commit()
