@@ -18,7 +18,8 @@
 3. [Шпаргалка по использованию Flask (Markdown)](/cheat-sheets/Flask.md)
     
 5. [Шпаргалка по использованию numpy (Markdown)](/cheat-sheets/numpy.md)
-6. [Telegram бот на teelbot]()
+   
+6. [Telegram бот на teelbot](/scr/telegram-bot-telebot.py)
 
 ### **Dart (Flutter)**
 
