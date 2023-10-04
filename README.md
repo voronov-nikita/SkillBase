@@ -19,7 +19,7 @@
     
 5. [Шпаргалка по использованию numpy (Markdown)](/cheat-sheets/numpy.md)
    
-6. [Telegram бот на teelbot](/scr/telegram-bot-telebot.py)
+6. [Telegram бот на telebot](/scr/telegram-bot-telebot.py)
 
 ### **Dart (Flutter)**
 
@@ -28,4 +28,4 @@
 
 
 
-###### 01.09.2023 - last commit in README.md
+###### 04.10.2023 - last commit in README.md

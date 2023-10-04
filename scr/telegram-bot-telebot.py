@@ -13,3 +13,11 @@ def start_message(message):
 
     bot.send_message(message.chat.id, "Привет")
     
+    
+
+# открпавка сообщения текстового сообщения через команды
+# к примеру команда /start
+@bot.message_handler(commands=["start"], content_types=["text"])
+def start_message(message):
+
+    bot.send_message(message.chat.id, "Привет")
