@@ -20,13 +20,13 @@
     
 5. [Шпаргалка по использованию numpy (Markdown)](/cheat-sheets/numpy.md)
    
-6. [Telegram бот на telebot](/scr/telegram-bot-telebot.py)
+6. [Telegram бот на telebot](/scr/telegram-bot-telebot.ipynb)
 
 ### **Dart (Flutter)**
 
-1. [Простое окно регистрации](/scr/login-page.dart)
+1. [Простое окно регистрации](/scr/login-page.ipynb)
 2. [Система базы данных]()
 
 
 
-###### 11.10.2023 - last commit in README.md
+###### 02.11.2023 - last commit in README.md
