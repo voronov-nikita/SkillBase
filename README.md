@@ -12,22 +12,29 @@
 ## **Содержание**
 ### **PYTHON**:
 
-   
+<br>
+
 1. [Работа с реляционной базы данных SQLite3](/scr/sqlite3.ipynb)
-   
 2. [Шпаргалка по использованию matplotlib (Markdown)](/cheat-sheets/matplotlib.md)
-   
 3. [Шпаргалка по использованию Flask (Markdown)](/cheat-sheets/Flask.md)
-    
 4. [Шпаргалка по использованию numpy (Markdown)](/cheat-sheets/numpy.md)
-   
 5. [Telegram бот на telebot](/scr/telegram-bot-telebot.ipynb)
+6. [PyQt5 основные моменты при разработке настольного приложения](/scr/pyqt5.ipynb)
+
+<br>
 
 ### **Dart (Flutter)**
 
 1. [Простое окно регистрации](/scr/login-page.ipynb)
 2. [Система использования базы данных Firebase]()
 
+<br>
+
+### **Arduino**
+
+1. [Сонар (датчик расстояния)]()
+2. [Моторы (щеточные моторы)]()
+3. 
 
 
-###### 04.11.2023 - last commit in README.md
+###### 14.11.2023 - last commit in README.md
