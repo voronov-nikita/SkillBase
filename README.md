@@ -32,9 +32,9 @@
 
 ### **Arduino**
 
-1. [Сонар (датчик расстояния)]()
-2. [Моторы (щеточные моторы)]()
-3. 
+1. [Сонар (датчик расстояния)](https://github.com/voronov-nikita/ArduPro)
+2. [Моторы (щеточные моторы)](https://github.com/voronov-nikita/ArduPro)
+
 
 
 ###### 14.11.2023 - last commit in README.md
