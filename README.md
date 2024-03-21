@@ -21,6 +21,12 @@
 5. [Telegram бот на telebot](/scr/telegram-bot-telebot.ipynb)
 6. [PyQt5 основные моменты при разработке настольного приложения](/scr/pyqt5.ipynb)
 
+
+- Порядковые модели для построения стандартной [базы данных SQLite](/cheat-sheets/database.py)
+
+- Порядковые модели для построения pyqt5 приложений:
+  - [Табилца на PyQt5 по готовым данным из БД](/cheat-sheets/PyQt5-table.py)
+
 <br>
 
 ### **Dart (Flutter)**
