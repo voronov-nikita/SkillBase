@@ -26,6 +26,8 @@
 
 - Порядковые модели для построения pyqt5 приложений:
   - [Табилца на PyQt5 по готовым данным из БД](/cheat-sheets/PyQt5-table.py)
+  - [Сисетма авторизации пользователя](/cheat-sheets/PyQt5-auth.py)
+  - [Построение графиков на pyqt5](/cheat-sheets/PyQt5-graphics.py)
 
 <br>
 
