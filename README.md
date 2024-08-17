@@ -27,6 +27,7 @@
 ### Примеры простых компонентов для приложений
 
 1. [NumPad клавиутра для ввода PIN кода](./ReactNative/lib/keyBoard.js)
+2. [Простой компонент для всплывающих уведомлений](./ReactNative/lib/showAlertNotification.js)
 
 ### Примеры полноценных монолитных приложений
 
@@ -34,4 +35,4 @@
 
 <br><br>
 
-###### 12.08.2024 - last change in repository.
+###### 18.08.2024 - last change in repository.
