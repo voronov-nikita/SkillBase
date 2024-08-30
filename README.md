@@ -28,6 +28,7 @@
 
 1. [NumPad клавиутра для ввода PIN кода](./ReactNative/lib/keyBoard.js)
 2. [Простой компонент для всплывающих уведомлений](./ReactNative/lib/showAlertNotification.js)
+3. [Простой пример базы SQLITE базы данных](./ReactNative/lib/simpleDatabase.js)
 
 ### Примеры полноценных монолитных приложений
 
@@ -35,4 +36,4 @@
 
 <br><br>
 
-###### 18.08.2024 - last change in repository.
+###### 30.08.2024 - last change in repository.
