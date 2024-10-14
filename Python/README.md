@@ -1,6 +1,6 @@
-![OpenCV](../assets/opencv-logo.png)
+![Python](../assets/python-logo.png)
 
-# **OpenCv**
+# **Python**
 
 ### База в теории
 
@@ -18,3 +18,6 @@
 ### Интересные задачи и решения к ним
 
 1. [Решение задачи интерпитарор с олимпиады и сайта CodeWars](./Python/interpritator.py)
+
+
+###### 12.10.2024 - last change.
