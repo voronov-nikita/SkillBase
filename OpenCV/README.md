@@ -1,4 +1,6 @@
-## **Python**
+![OpenCV](../assets/opencv-logo.png)
+
+# **OpenCv**
 
 ### База в теории
 

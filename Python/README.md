@@ -1,3 +1,5 @@
+![Python](../assets/python-logo.png)
+
 # **Python**
 
 ### База в теории

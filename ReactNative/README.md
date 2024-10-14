@@ -1,3 +1,5 @@
+![ReactNative](../assets/ReactNative-logo.jpeg)
+
 # **React Native**
 
 ### Примеры простых компонентов для приложений
