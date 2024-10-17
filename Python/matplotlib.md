@@ -12,7 +12,8 @@
 6. [Useful Links](https://github.com/voronov-nikita/useful-parts-of-code/blob/main/cheat-sheets/matplotlib.md#useful-links)
 
 ## About
-<font color="green">**matplotlib**</font> - python библиотека для визуализации полученных данных в виде графиков, диаграмм и таблиц. По умолчанию она не встроена, для установки требуется прописать:
+<font color="green"><b>matplotlib</b></font> - python библиотека для визуализации полученных данных в виде графиков, диаграмм и таблиц. По умолчанию она не встроена, для установки требуется прописать:
+
 ```Terminal
 # Windows
 pip install matplotlib
@@ -81,7 +82,7 @@ plt.plot(x, y)
 plt.show()
 ```
 
-![image1](/cheat-sheets/img/1.png)
+![image1]()
 
 ```python
 # импортируем модуль
