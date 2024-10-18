@@ -12,9 +12,10 @@
 6. [Useful Links](https://github.com/voronov-nikita/useful-parts-of-code/blob/main/cheat-sheets/matplotlib.md#useful-links)
 
 ## About
+
 <font color="green"><b>matplotlib</b></font> - python библиотека для визуализации полученных данных в виде графиков, диаграмм и таблиц. По умолчанию она не встроена, для установки требуется прописать:
 
-```Terminal
+```bash
 # Windows
 pip install matplotlib
 
@@ -32,6 +33,7 @@ y = [i**2 for i in x]
 
 plt.plot(x, y)
 plt.show()
+
 ```
 
 <font color="grey">

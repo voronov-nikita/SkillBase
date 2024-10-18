@@ -38,7 +38,7 @@ constant value and using the variable in another expression (Each line starting 
 <details>
 <summary><b>Решение:</b></summary>
 
-<code>
+```python
 
 import re
 
@@ -164,8 +164,7 @@ class Interpreter:
 if __name__=="__main__":
     inp = Interpreter()
     print(inp.input("(8 - (4 + 2)) * 3"))
-
-</code>
+```
 
 </details>
 
