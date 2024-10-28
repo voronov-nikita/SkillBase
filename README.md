@@ -1,6 +1,11 @@
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+
 # Личная база знаний 
 
-\( O(\sqrt{N})  \) - это сложность алгоритма поиска в базе знаний. Это
+<p>Пример формулы: \( E = mc^2 \)</p>
 
 ```
 
