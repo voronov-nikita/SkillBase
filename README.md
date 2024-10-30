@@ -1,13 +1,4 @@
-<head>
-    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
-
-
 # Личная база знаний 
-
-<!-- <p>Пример формулы: \( E = mc^2 \)</p> -->
-
-$O(\sqrt{N})$
 
 ```
 
@@ -21,14 +12,15 @@ $O(\sqrt{N})$
 ## **Содержание репозитория**
 
 0. [Словарь терминов и сокращений](./Dictionary.md)
-1. [База python](./Python/)
-2. [База C++](./C++/)
-3. [База React Native](./ReactNative/)
-4. [База Kotlin](./Kotlin/)
-5. [Основы Linux и не только](./Linux/)
-6. [Git и GitHub](./GitHub/)
-7. [Система контейнеров - Docket](./Docker/)
-8. [Машинное зрение или OpenCV](./OpenCV/)
+1. [Основы MarkDown](./General/Markdown.md)
+2. [База python](./Python/)
+3. [База C++](./C++/)
+4. [База React Native](./ReactNative/)
+5. [База Kotlin](./Kotlin/)
+6. [Основы Linux и не только](./Linux/)
+7. [Git и GitHub](./GitHub/)
+8. [Система контейнеров - Docket](./Docker/)
+9. [Машинное зрение или OpenCV](./OpenCV/)
 
 
 ## **Дополнительные материалы**
@@ -46,4 +38,4 @@ $O(\sqrt{N})$
 <br><br>
 
 
-###### 28.10.2024
+###### 30.10.2024
