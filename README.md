@@ -17,10 +17,12 @@
 3. [База C++](./C++/)
 4. [База React Native](./ReactNative/)
 5. [База Kotlin](./Kotlin/)
-6. [Основы Linux и не только](./Linux/)
-7. [Git и GitHub](./GitHub/)
-8. [Система контейнеров - Docket](./Docker/)
-9. [Машинное зрение или OpenCV](./OpenCV/)
+6. [Немного про Arduino](./Arduino/README.md)
+7. [Основы Linux и не только](./Linux/)
+8. [Git и GitHub](./GitHub/)
+9. [Система контейнеров - Docket](./Docker/)
+10. [Машинное зрение или OpenCV](./OpenCV/)
+11. [Генетический алгоритм](./General/GeneticAlgorithm.md)
 
 
 ## **Дополнительные материалы**
@@ -29,8 +31,9 @@
 2. [Виртуализация оборудования](./General/virtualization.md)
 3. [Конспекты высшего образования (Математика, Информатика и т.д)](./Higher/)
 4. [Учебные субботы по C++](./Higher/SSaturdays/)
-5. [3Д принетры и 3Д печать](./General/3DPrint.md)
+5. [3Д принтеры и 3Д печать](./General/3DPrint.md)
 6. [БПЛА и применение](./General/Drone.md)
+7. [Технология Ethernet](./General/Ethernet.md)
 
 
 
@@ -38,4 +41,4 @@
 <br><br>
 
 
-###### 30.10.2024
+###### 04.11.2024
