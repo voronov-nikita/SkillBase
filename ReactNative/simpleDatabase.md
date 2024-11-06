@@ -1,3 +1,7 @@
+# Пример работы с базой данных SQLite в React Native
+
+```javascript
+
 //
 // Логика локальной SQLite базы данных для хранения различного рода информации.
 // В фале представлены функции, которые рекомендуется импортировать
@@ -80,3 +84,5 @@ export const addNewTarget = async (db, title, curSum, targetSum, tag) => {
 	}
 	return true;
 };
+
+```

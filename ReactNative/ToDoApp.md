@@ -1,3 +1,7 @@
+# Пример приложение ToDo листа
+
+```javascript
+
 import React, { useState } from "react";
 import {
     SafeAreaView,
@@ -127,3 +131,5 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+
+```

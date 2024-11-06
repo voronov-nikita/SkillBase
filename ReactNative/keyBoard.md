@@ -1,6 +1,8 @@
-//
-// Компонент клавиатуры для входа в систему.
-//
+
+# Компонент клавиатуры для входа в систему.
+
+
+```javascript
 
 import React, { useState, useEffect } from "react";
 import { View, Text, TouchableOpacity, StyleSheet } from "react-native";
@@ -128,3 +130,5 @@ const styles = StyleSheet.create({
 		fontWeight: "bold",
 	},
 });
+
+```

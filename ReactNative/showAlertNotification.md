@@ -1,7 +1,9 @@
-//
-// Отправка всплывающего уведомления на экран.
-// Используется для связи с пользователем.
-//
+
+# Отправка всплывающего уведомления на экран.
+
+Используется для связи с пользователем.
+
+```javascript
 
 import { Alert } from "react-native";
 import React from "react";
@@ -19,3 +21,5 @@ export const showAlertNotification = (titleText, mainText) => {
 		{ cancelable: true }
 	);
 };
+
+```
