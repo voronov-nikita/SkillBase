@@ -1,3 +1,7 @@
+# Построение графиков в PyQt5
+
+```python
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QGraphicsView, QGraphicsScene
 from PyQt5.QtCore import Qt
@@ -32,3 +36,6 @@ if __name__ == '__main__':
     window = MainWindow()
     window.show()
     sys.exit(app.exec_())
+
+
+```

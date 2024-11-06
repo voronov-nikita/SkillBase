@@ -1,3 +1,7 @@
+# Построение таблиц в PyQt5
+
+```python
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidget, QTableWidgetItem, QVBoxLayout, QWidget
 
@@ -49,3 +53,6 @@ if __name__ == '__main__':
     window = TableExample()
     window.show()
     sys.exit(app.exec_())
+
+
+```

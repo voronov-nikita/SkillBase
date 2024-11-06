@@ -1,4 +1,4 @@
-![pyqt5-logo](../assets/pyqt5-logo.png)
+![pyqt5-logo](../../assets/pyqt5-logo.png)
 
 # **PyQt5 - основы разработки GUI-приложений**
 
@@ -18,8 +18,13 @@
 
 ## Готовые конструкции для построения приложений
 
+1. [Авторизация](./PyQt5-auth.md)
+2. [Построение графиков](./PyQt5-graphics.md)
+3. [Построение таблиц](./PyQt5-table.md)
+
 ## PyQt Designer
 
+Qt Designer - специальная программа, предназначенная для 
 
 <br><br>
 <br><br>

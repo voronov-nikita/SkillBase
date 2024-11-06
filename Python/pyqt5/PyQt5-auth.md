@@ -1,3 +1,7 @@
+# Код для авторизации в PyQt5
+
+```python
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QLineEdit, QPushButton, QVBoxLayout, QWidget
 
@@ -35,12 +39,12 @@ class LoginWindow(QMainWindow):
         # Массив пользователей и паролей
         self.users = {"user1": "password1", "user2": "password2", "user3": "password3"}
 
-    # функия проверки правильности и соотвествия пароля к аккаунту
+    # функция проверки правильности и соответствия пароля к аккаунту
     def login(self):
         username = self.lineEdit_username.text()
         password = self.lineEdit_password.text()
 
-        # дейстивя при успешкной и ошибочной авторизации
+        # действия при успешной и ошибочной авторизации
         if username in self.users and self.users[username] == password:
             print("Успешная авторизация")
             self.close()
@@ -54,3 +58,6 @@ if __name__ == '__main__':
     window = LoginWindow()
     window.show()
     sys.exit(app.exec_())
+
+
+```
