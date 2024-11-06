@@ -1,3 +1,8 @@
+<head>
+    <meta charset="UTF-8" />
+    <link  href="./assets/icons/favicon.ico" rel="icon" />
+</head>
+
 # Личная база знаний 
 
 ```
@@ -40,4 +45,4 @@
 <br><br>
 
 
-###### 04.11.2024
+###### 06.11.2024
