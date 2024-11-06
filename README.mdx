@@ -1,7 +1,17 @@
-<head>
-    <meta charset="UTF-8" />
-    <link  href="./assets/icons/favicon.ico" rel="icon" />
-</head>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+<div class="mermaid">
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      B-->C;
+      C-->D;
+</div>
+
 
 # Личная база знаний 
 
