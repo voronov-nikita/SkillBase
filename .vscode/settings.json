@@ -5,9 +5,19 @@
         "Дроны",
         "канал",
         "программы",
+        "рендерит",
         "Содержание",
         "ссылки",
         "Установка",
-        "Gyver"
+        "cout",
+        "fstream",
+        "Gyver",
+        "habr",
+        "matplotlib",
+        "numpy"
+    ],
+    "cSpell.ignoreWords": [
+        "CSMA",
+        "Меткалфом"
     ]
 }
