@@ -4,20 +4,20 @@
 
 ### База в теории
 
-1. [База данных SQLite3](./Python/database.py)
-2. [Теория по библиотеке sqlite3 python](./Python/sqlite3.ipynb)
-3. [Flask](./Python/Flask.md)
-4. [MatplotLib - построение графиков на python](./Python/matplotlib.md)
-5. [Numpy - библиотека массивов и векторов в python](./Python/numpy.md)
-6. [База по PyQt5](./Python/pyqt5.ipynb)
-7. [Варант формы авторизации на PyQt5](./Python/PyQt5-auth.py)
-8. [Построение таблиц с помощью PyQt5](./Python/PyQt5-table.py)
-9. [Построение графиков с помощью PyQt5](./Python/PyQt5-graphics.py)
-10. [Написание ТГ бота на python](./Python/telegram-bot-telebot.ipynb)
+1. [База данных SQLite3](./sqlite3.md)
+2. [Теория по библиотеке sqlite3 python](./sqlite3.md)
+3. [Flask](./flask/)
+4. [matplotlib - построение графиков на python](./matplotlib/)
+5. [numpy - библиотека массивов и векторов в python](./numpy/)
+6. [База по PyQt5](./pyqt5/)
+7. [Вариант формы авторизации на PyQt5](./pyqt5/PyQt5-auth.md)
+8. [Построение таблиц с помощью PyQt5](./pyqt5/PyQt5-table.md)
+9. [Построение графиков с помощью PyQt5](./pyqt5/PyQt5-graphics.md)
+10. [Написание ТГ бота на python](./telebot.md)
 
 ### Интересные задачи и решения к ним
 
-1. [Решение задачи интерпитарор с олимпиады и сайта CodeWars](./Python/interpritator.py)
+1. [Решение задачи интерпритатор с олимпиады и сайта CodeWars](./tasks.md)
 
 
-###### 12.10.2024 - last change.
+###### 08.11.2024
