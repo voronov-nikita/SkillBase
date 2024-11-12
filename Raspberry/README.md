@@ -1,6 +1,6 @@
 ![raspberry-logo](../assets/raspberry.jpg)
 
-# Raspberry Pi
+# **Raspberry Pi**
 
 ## Содержание
 
