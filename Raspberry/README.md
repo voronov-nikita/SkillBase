@@ -70,15 +70,19 @@ Raspberry Pi платы зачастую используют для орган�
 
 Настройка Wifi, SSH, обновление
 
-## Интересные проекты
+## Интересные проекты и способы использовать микрокомпьютер
+
+1. **Домашний сервер**:
+   
+   Суть проекта в том, чтобы
 
 ## Полезные материалы
 
-1. []()
-2. []()
-3. []()
-4. []()
-5. []()
+1. [raspberrypi.com/](https://www.raspberrypi.com/)
+2. [Raspberry Pi для начинающих - edurobots.org](https://edurobots.org/raspberry-pi-dlya-nachinayushhix/)
+3. [Raspberry Pi: подробная настройка с нуля до TorrentBox - habr.com](https://habr.com/ru/articles/149890/)
+4. [raspberrypi-ru.com](https://raspberrypi-ru.com/учебные-пособия/page/2/)
+5. [RaspberryPi проекты - github.com](https://github.com/topics/raspberry-pi-projects)
 
 <br><br>
 <br><br>
