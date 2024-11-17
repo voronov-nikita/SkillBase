@@ -13,6 +13,7 @@
 
 1. [Обучение поиску уязвимостей в Linux](https://sadservers.com/)
 2. [Консольный Git](https://githowto.com/ru)
+3. [Установка плагина для работы с C/C++ в VisualStudio Code](https://code.visualstudio.com/docs/languages/cpp)
 
 ## Файлы
 
@@ -23,5 +24,4 @@
 1. [Автогенератор Giitignore файлов](https://www.toptal.com/developers/gitignore/)
 2. [Типография для дешевой печати фотокниг]()
 
-
-###### 16.10.2024
+###### 18.11.2024
