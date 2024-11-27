@@ -1,5 +1,5 @@
 title: Skill Base
 favicon: /assets/favicon.ico
 description: This is my personal website.
-markdown: commonmark
+markdown: kramdown
 theme: minima
