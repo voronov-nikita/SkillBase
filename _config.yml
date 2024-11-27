@@ -2,4 +2,4 @@ title: Skill Base
 favicon: \assets\favicon.ico
 description: This is my personal website.
 markdown: kramdown
-# theme: minima
+highlighter: rouge
