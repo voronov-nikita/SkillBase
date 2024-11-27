@@ -1,3 +1,5 @@
-title: My Awesome Site
+title: Skill Base
+favicon: /assets/favicon.ico
 description: This is my personal website.
-markdown: kramdown
+markdown: commonmark
+theme: minima
