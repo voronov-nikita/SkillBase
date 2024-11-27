@@ -21,7 +21,7 @@
 
 ## Прочее
 
-1. [Автогенератор Giitignore файлов](https://www.toptal.com/developers/gitignore/)
+1. [Автогенератор Gitignore файлов](https://www.toptal.com/developers/gitignore/)
 2. [Типография для дешевой печати фотокниг]()
 
 ###### 18.11.2024
