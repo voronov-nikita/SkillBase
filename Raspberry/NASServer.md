@@ -33,7 +33,7 @@
     следовательно это Linux система без графической оболочки.
     Подключение к Raspberry осуществляется по средствам удаленного терминала **SSH**.
 4. **Понимание принципа работы сетей. Умение "пробрасывать" порты**:
-   Есть несколько способов получения доступа к локальным ресурсам путем
+   Есть несколько способов получения доступа к локальным ресурсам. Одном из самых простых является понимание принципа построение TCP/IP сетей с использованием технологии удаленного администрирования SSH.
 
 ## Готовая реализация
 
@@ -41,16 +41,25 @@
 
 В репозитории описаны все моменты, сложности, ошибки и решения для них при реализации проекта.
 
+> [!NOTE]
+> На самом деле проект NAS-platform нацелен на другое. А конкретно на написание WEB сервиса для удаленного доступа к файлам на домашнем NAS сервере.
+>
+> В лучшем случае, все что можно узнать оттуда полезного, так это то, как пробросить порты, настроить DDNS и DHCP серверы на своем, даже самом стареньком роутере, привязанном к определенным операторам без покупки дорогостоящих услуг (о предоставлении постоянного IP адреса, к примеру).
+
 ## Полезные ссылки
 
 1. [raspberrypi.com](https://www.raspberrypi.com/)
 2. [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
-3. [Основы Linux (обзор с практическим уклоном) - habr.ru](https://habr.com/ru/articles/655275/)
+3. [Основы Linux (обзор с практическим уклоном) - habr.com](https://habr.com/ru/articles/655275/)
 4. [Учебное пособие по Linux/Unix - geeksforgeeks.org](https://www.geeksforgeeks.org/linux-tutorial/)
-5. [Знакомство с SSH - habr.ru](https://habr.com/ru/articles/802179/)
+5. [Знакомство с SSH - habr.com](https://habr.com/ru/articles/802179/)
+6. [Сетевые хранилища NAS: зачем нужны и как выбрать подходящее? - habr.com](https://habr.com/ru/companies/seagate/articles/538336/)
+7. [Файл-сервер на Raspberry Pi как домашний NAS - habr.com](https://habr.com/ru/companies/first/articles/592307/)
+8. [How to build a Raspberry Pi NAS - raspberrypi.com](https://www.raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial/)
+9. [Личный сервер дома: собираем полноценный NAS на базе Raspberry Pi - trashbox.ru](https://trashbox.ru/link/nas-via-raspberry-pi)
 
 
 <br><br>
 <br><br>
 
-###### 27.11.2024
+###### 30.11.2024

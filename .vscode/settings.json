@@ -24,6 +24,8 @@
         "habr",
         "matplotlib",
         "numpy",
+        "rutube",
+        "trashbox",
         "woop"
     ],
     "cSpell.ignoreWords": [
