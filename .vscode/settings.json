@@ -37,6 +37,7 @@
         "CSMA",
         "Imager",
         "LPDDR",
+        "Mosquitto",
         "Wiren",
         "geeksforgeeks",
         "gpiozero",
