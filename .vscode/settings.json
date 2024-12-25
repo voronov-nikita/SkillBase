@@ -49,6 +49,7 @@
         "gpiozero",
         "jsonify",
         "palletsprojects",
+        "pyenv",
         "raspberrypi",
         "skillbox",
         "sqlalchemy",
