@@ -167,17 +167,21 @@ python main.py
 <br>
 
 ## Полезные расширения
-
-1. **Material Icon** - для красивых иконок
-2. **Prettier** - для форматирования кода
-3. **BLACKBOXAI** - для автодополнения
-4. **Code Runner** - для запуска кода разных языков
-5. **Code Spell Checker** - для проверки орфографии (в том числе и русской)
-6. **IntelliCode** - для подсказок при наборе кода
-7. **Live Server** - для запуска сервера разработки web страниц (удобно при разработке статичных сайтов на HTML и CSS)
-8. **Remote - SSH** - для удаленного доступа к серверам по технологии SSH
-9. **SQLite Viewer** - для просмотра баз данных SQLite
-10. **vscode-pdf** - для просмотра PDF файлов
+ 
+1. **Russian Language Pack for Visual Studio Code** - смена стандартного языка интерфейса (английского) на русский
+2. **Material Icon** - для красивых иконок
+3. **Prettier** - для форматирования кода
+4. **BLACKBOXAI** - для автодополнения
+5. **Code Runner** - для запуска кода разных языков
+6. **Code Spell Checker** - для проверки орфографии (в том числе и русской)
+7. **IntelliCode** - для подсказок при наборе кода
+8. **Live Server** - для запуска сервера разработки web страниц (удобно при разработке статичных сайтов на HTML и CSS)
+9. **Remote - SSH** - для удаленного доступа к серверам по технологии SSH
+10. **SQLite Viewer** - для просмотра баз данных SQLite
+11. **vscode-pdf** - для просмотра PDF файлов
+12. **C/C++** - подсветка синтаксиса для C и C++ языков программирования
+13. **Extensible Markdown** - удобный конвертер Markdown разметки в HTML
+14. **Pep/8 Assembly HighlighterPreview** - форматирование кода по стандарту PEP8 (часто используется в связке с python)
 
 
 > [!NOTE]
@@ -192,23 +196,28 @@ python main.py
 
 1. [Официальный сайт VS Code](https://code.visualstudio.com/)
 2. ["Material Icon Them" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-3. []()
-4. []()
-5. [Установка C++ в Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
-6. ["Почему VS Code лучший инструмент программиста?" - youtu.be](https://youtu.be/9QxY5zIoTgc?si=0zLwLtVj4bGchJbY)
-7. ["ТОП-10 Полезных Плагинов для VS Code, которые облегчат жизнь веб-разработчикам" - youtu.be](https://youtu.be/xFQG4fEc4jc?si=FpNgX0uIxljzQYyb)
-8. []()
-9. []()
-10. []()
-11. []()
-12. []()
-13. []()
-14. []()
+3. ["Code Runner" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+4. ["Prettier - Code formatter" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+5. ["Remote - SSH" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+6. ["vscode-pdf" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+7. ["BLACKBOXAI #1 Coding Agent +10 Million Developers" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
+8. ["Live Server" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+9. ["Code Spell Checker" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+10. [Установка C++ в Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
+11. ["Почему VS Code лучший инструмент программиста?" - youtu.be](https://youtu.be/9QxY5zIoTgc?si=0zLwLtVj4bGchJbY)
+12. ["ТОП-10 Полезных Плагинов для VS Code, которые облегчат жизнь веб-разработчикам" - youtu.be](https://youtu.be/xFQG4fEc4jc?si=FpNgX0uIxljzQYyb)
+13. ["VS Code, python, контейнеры — как обуздать эту триаду и разрабатывать внутри контейнера" - habr.com](https://habr.com/ru/companies/ruvds/articles/717110/)
+14. ["Настройка Visual Studio Code для Django" - habr.com](https://habr.com/ru/articles/701800/)
+15. ["Настройка Visual Studio Code для Python" - selectel.ru](https://selectel.ru/blog/tutorials/how-to-configure-visual-studio-code-for-python/)
+16. ["С/С++ на Linux в Visual Studio Code для начинающих" - habr.com](https://habr.com/ru/companies/microsoft/articles/333680/)
+17. ["Как настроить Visual Studio Code на работу с С++?" - ru.stackoverflow.com](https://ru.stackoverflow.com/questions/1172843/Как-настроить-visual-studio-code-на-работу-с-С)
+18. ["Как настроить VSCode под C/C++ | How to tune Visual Studio Code for C/C++" - rutube.ru](https://rutube.ru/video/85156a65f50fc307c8024f8cee362405/?r=plwd)
+19. ["Настройка Visual Studio и Visual Studio Code под C#" - youtu.be](https://youtu.be/9XYwm2GOQtk)
 
 ---
 
 <br><br>
 <br><br>
 
-###### 26.12.2024
+###### 01.01.2025
 
