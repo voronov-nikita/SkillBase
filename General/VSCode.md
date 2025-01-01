@@ -211,7 +211,7 @@ python main.py
 15. ["Настройка Visual Studio Code для Python" - selectel.ru](https://selectel.ru/blog/tutorials/how-to-configure-visual-studio-code-for-python/)
 16. ["С/С++ на Linux в Visual Studio Code для начинающих" - habr.com](https://habr.com/ru/companies/microsoft/articles/333680/)
 17. ["Как настроить Visual Studio Code на работу с С++?" - ru.stackoverflow.com](https://ru.stackoverflow.com/questions/1172843/Как-настроить-visual-studio-code-на-работу-с-С)
-18. ["Как настроить VSCode под C/C++ | How to tune Visual Studio Code for C/C++" - rutube.ru](https://rutube.ru/video/85156a65f50fc307c8024f8cee362405/?r=plwd)
+18. ["Как настроить VSCode под C/C++ \| How to tune Visual Studio Code for C/C++" - rutube.ru](https://rutube.ru/video/85156a65f50fc307c8024f8cee362405/?r=plwd)
 19. ["Настройка Visual Studio и Visual Studio Code под C#" - youtu.be](https://youtu.be/9XYwm2GOQtk)
 
 ---
