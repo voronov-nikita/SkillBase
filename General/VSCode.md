@@ -146,12 +146,12 @@ python main.py
 ## Полезные ссылки и источники
 
 1. [Официальный сайт VS Code](https://code.visualstudio.com/)
-2. []()
+2. ["Material Icon Them" - marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 3. []()
 4. []()
 5. [Установка C++ в Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
-6. [](https://youtu.be/9QxY5zIoTgc?si=0zLwLtVj4bGchJbY)
-7. []()
+6. ["Почему VS Code лучший инструмент программиста?" - youtu.be](https://youtu.be/9QxY5zIoTgc?si=0zLwLtVj4bGchJbY)
+7. ["ТОП-10 Полезных Плагинов для VS Code, которые облегчат жизнь веб-разработчикам" - youtu.be](https://youtu.be/xFQG4fEc4jc?si=FpNgX0uIxljzQYyb)
 8. []()
 9. []()
 10. []()
