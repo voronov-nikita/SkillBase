@@ -132,3 +132,8 @@ const styles = StyleSheet.create({
 });
 
 ```
+
+<br><br>
+<br><br>
+
+###### 12.01.2025

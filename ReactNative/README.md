@@ -137,6 +137,9 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 1. [NumPad клавиатура для ввода PIN кода](./keyBoard.md)
 2. [Простой компонент для всплывающих уведомлений](./showAlertNotification.md)
 3. [Простой пример базы SQLITE базы данных](./simpleDatabase.md)
+4. [WEB авторизация с учетом локального хранения cookies](./Auth.md)
+5. [Абстракция стандартной навигации](./Navigator.md)
+6. [Абстракция навигации через "шторку" (выпадающее меню)](./Curtain.md)
 
 ### Примеры полноценных монолитных приложений
 
@@ -148,11 +151,11 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 
 ## Полезные ссылки
 
-1. []()
+1. [Официальный сайт React Native](https://reactnative.dev/)
 2. [Официальный сайт Expo](https://expo.dev/)
 3. [Создание мобильного приложения на React Native](https://habr.com/ru/articles/467609/)
 
 <br><br>
 <br><br>
 
-###### 22.12.2024
+###### 12.01.2025

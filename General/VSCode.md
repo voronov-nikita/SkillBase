@@ -182,6 +182,7 @@ python main.py
 12. **C/C++** - подсветка синтаксиса для C и C++ языков программирования
 13. **Extensible Markdown** - удобный конвертер Markdown разметки в HTML
 14. **Pep/8 Assembly HighlighterPreview** - форматирование кода по стандарту PEP8 (часто используется в связке с python)
+15. **indent-rainbow** - для красивой подсветки разного уровня отступов
 
 
 > [!NOTE]
